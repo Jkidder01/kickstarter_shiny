@@ -10,7 +10,7 @@ ui <- fluidPage(
         start = min(ks_df$launched_week),
         end = max(ks_df$launched_week),
         min = min(ks_df$launched_week),
-        max = max(ks_df$launched_week)
+        max = max(ks_df$launched_week),
       )
 
       # TODO: add ability to filter by state
