@@ -10,4 +10,5 @@ Data from originally from [kickstarter](https://kickstarter.com) and downloaded 
 * Your repo is now out of date!!!
   * I changed the code by merging a PR
   * Use the "Fetch Upstream" option showing on your repo to get up to date
+  * After getting the "remote" repo up to date make sure to "fetch" and "pull" the changes down to your computer using GitHub desktop
 * Complete the remaining `TODO`s and optionally submit a PR
